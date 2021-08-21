@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "a new rpg",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenharborth9835/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "allen harborth",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/allenharborth9835/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/allenharborth9835/jest-another-RPG#readme"
+}
