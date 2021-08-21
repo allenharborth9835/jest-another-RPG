@@ -4,7 +4,7 @@
   "description": "a new rpg",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/allenharborth9835/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/allenharborth9835/jest-another-RPG#readme"
+  "homepage": "https://github.com/allenharborth9835/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
